@@ -30,3 +30,5 @@ The script performs the following steps:
 7. **Model Loading**: Loads a pre-trained model from a pickle file.
 8. **Prediction**: Makes predictions on new data and visualizes the prediction probabilities using a gauge chart.
 
+You can run it in Google Colab via [this link](https://colab.research.google.com/gist/konradbachusz/f0117ef57bc7365a350046e69ebb00e6/basic_banking_classification.ipynb)
+
